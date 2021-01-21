@@ -1,0 +1,13 @@
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.vbprojAssemblyReference.cache
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.LoginForm.resources
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.MainForm.resources
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.Resources.resources
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.vbproj.GenerateResource.cache
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.vbproj.CoreCompileInputs.cache
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\bin\Debug\Mail_Manager.exe.config
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\bin\Debug\Mail_Manager.exe
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\bin\Debug\Mail_Manager.pdb
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\bin\Debug\Mail_Manager.xml
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.exe
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.xml
+D:\Software\Programming\vb.net\Mail_Manager\Mail_Manager\obj\Debug\Mail_Manager.pdb
